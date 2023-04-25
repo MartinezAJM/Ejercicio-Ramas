@@ -4,3 +4,5 @@ print(message)
 
 age = input("Dime tu edad prro")
 print("La edad de este prro es de :"+ age +"años")
+
+gender = input("Dime tu sexo : ")
